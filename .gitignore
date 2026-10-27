@@ -1,0 +1,23 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Docker & Environment Variables
+.env
+.env.local
+*.log
+
+# Python / Django
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+*.sqlite3
+backend/staticfiles/
+
+# Node.js / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
